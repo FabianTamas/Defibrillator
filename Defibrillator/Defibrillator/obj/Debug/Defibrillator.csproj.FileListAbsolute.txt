@@ -1,0 +1,10 @@
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\bin\Debug\Defibrillator.exe.config
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\bin\Debug\Defibrillator.exe
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\bin\Debug\Defibrillator.pdb
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\obj\Debug\Defibrillator.csprojAssemblyReference.cache
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\obj\Debug\Defibrillator.Properties.Resources.resources
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\obj\Debug\Defibrillator.csproj.GenerateResource.cache
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\obj\Debug\Defibrillator.csproj.CoreCompileInputs.cache
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\obj\Debug\Defibrillator.exe
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\obj\Debug\Defibrillator.pdb
+D:\Szoftverfejlesztés\Windows Form App\Defibrillator\Defibrillator\obj\Debug\Defibrillator.Form1.resources
